@@ -8,7 +8,7 @@ export default function Header() {
         <header className="header-background">
             <Link to="/" className="header-link">
                 <h1>
-                    ProAca Web Site
+                    『ch/みなみのぶすけ』　~STAND BY ME~
                 </h1>
             </Link>
         </header>
