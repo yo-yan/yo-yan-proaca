@@ -12,8 +12,9 @@ export default function Hero() {
             <div className="hero-author">
                 <img src="https://api.adorable.io/avatars/30/image.png" className="hero-author-image" alt="avatar"></img>
                 <p className="hero-author-text">
-                    Written by XXXX.<br />
-                    Front Engineer at Hoge.Inc. Love JavaScript.
+                    30歳目前、生きていく男達<br />
+                    こんな時代だからこそアウトドアで楽しむ！<br />
+                    幼馴染、男3人の活動配信部屋！！
                 </p>
             </div>
         </div>
